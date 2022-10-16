@@ -1,0 +1,1 @@
+# educational-anti-scammer
