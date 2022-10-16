@@ -1,1 +1,1 @@
-# educational-anti-scammer
+# Educational Anti-Scammer Application
